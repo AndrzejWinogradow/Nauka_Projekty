@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [List of projects](#list-of-projects)
 * [Technologies Used](#technologies-used) <!--  * [Features](#features) * [Screenshots](#screenshots) * [Setup](#setup) * [Usage](#usage) -->
 * [Project Status](#project-status) <!-- * [Room for Improvement](#room-for-improvement) -->
 * [Acknowledgements](#acknowledgements)
@@ -11,6 +12,11 @@
 ## General Information
 
 - projects for learning repos
+
+
+## List of projects
+
+- [Python Django Sklep](https://andrzejwinogradow.github.io/Nauka_Projekty/Nauka_Django_Sklep/)
 
 
 ## Technologies Used
