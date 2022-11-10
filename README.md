@@ -63,6 +63,7 @@ Room for improvement:
 - Improvement to be done 2-->
 
 ## Todo:
+<!-- 
 - Programming languages:
   - TypeScript
   - Shell(Bash)???
@@ -82,7 +83,7 @@ Room for improvement:
 - testowanie automatyczne:
   - selenium
 - API
-
+ -->
 
 ## Acknowledgements
 
