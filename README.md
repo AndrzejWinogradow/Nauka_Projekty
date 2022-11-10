@@ -62,7 +62,7 @@ Room for improvement:
 - Improvement to be done 1
 - Improvement to be done 2-->
 
-## Todo:
+## Todo ( hidden )
 <!-- 
 - Programming languages:
   - TypeScript
