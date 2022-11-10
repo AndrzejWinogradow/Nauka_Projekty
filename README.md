@@ -79,6 +79,9 @@ Room for improvement:
   - Contenful
   - Strapi
   - Sanity
+- testowanie automatyczne:
+  - selenium
+- API
 
 
 ## Acknowledgements
