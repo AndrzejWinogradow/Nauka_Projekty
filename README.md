@@ -5,6 +5,7 @@
 * [List of projects](#list-of-projects)
 * [Technologies Used](#technologies-used) <!--  * [Features](#features) * [Screenshots](#screenshots) * [Setup](#setup) * [Usage](#usage) -->
 * [Project Status](#project-status) <!-- * [Room for Improvement](#room-for-improvement) -->
+* [ToDo](#todo)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact) <!-- * [License](#license) -->
 
@@ -59,11 +60,25 @@ Include areas you believe need improvement / could be improved. Also add TODOs f
 
 Room for improvement:
 - Improvement to be done 1
-- Improvement to be done 2
+- Improvement to be done 2-->
 
-To do:
-- Feature to be added 1
-- Feature to be added 2 -->
+## Todo:
+- Programming languages:
+  - TypeScript
+  - Shell(Bash)???
+  - Rust
+- Web Frameworks:
+  - React
+  - Express
+  - Next.js
+  - Vite
+- CMS: 
+  - Wordpress
+  - Notion
+  - Worpress ( Headless )
+  - Contenful
+  - Strapi
+  - Sanity
 
 
 ## Acknowledgements
