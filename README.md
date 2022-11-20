@@ -83,8 +83,10 @@ Room for improvement:
 - testowanie automatyczne:
   - selenium
 - API
- -->
-
+ 
+- projects 
+  
+-->
 ## Acknowledgements
 
 - 
