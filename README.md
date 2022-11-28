@@ -25,8 +25,9 @@
 
 ## Technologies Used
 
-- Git version 2.32.0.windows.2
-- Visual Studio Code 1.58.2
+- Git version 2.38.1
+- PyCharm 2022.2
+- Visual Studio Code 1.73.1
 
 
 <!-- ## Features
