@@ -19,6 +19,7 @@
 
 - [Python Django Sklep](https://andrzejwinogradow.github.io/Nauka_Projekty/Nauka_Django_Sklep/)
 - [Java Script Personal Site](https://andrzejwinogradow.github.io/Nauka_Projekty/Nauka_JS_Personal/)
+- [SQL Project](https://andrzejwinogradow.github.io/Nauka_Projekty/Nauka_SQL_Projekt/)
 - [Data Science Project](https://andrzejwinogradow.github.io/Nauka_Projekty/Nauka_DataScience_Projekt/)
 
 
