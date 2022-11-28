@@ -18,6 +18,7 @@
 ## List of projects
 
 - [Python Django Sklep](https://andrzejwinogradow.github.io/Nauka_Projekty/Nauka_Django_Sklep/)
+- [Data Science Project](https://andrzejwinogradow.github.io/Nauka_Projekty/Nauka_DataScience_Projekt/)
 
 
 ## Technologies Used
