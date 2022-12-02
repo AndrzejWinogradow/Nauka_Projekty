@@ -90,11 +90,11 @@ Room for improvement:
  
 - projects 
   
--->
+
 ## Acknowledgements
 
 - 
-
+-->
 
 ## Contact
 Created by [@AndrzejWinogradow](https://github.com/AndrzejWinogradow) - feel free to contact me!
