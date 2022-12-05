@@ -28,6 +28,8 @@
 - Git version 2.38.1
 - PyCharm 2022.2
 - Visual Studio Code 1.73.1
+- SQL
+- 
 
 
 <!-- ## Features
