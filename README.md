@@ -54,7 +54,7 @@ Proceed to describe how to install / setup one's local environment / get started
 How does one go about using it?
 Provide various use cases and code examples here.
 
-`write-your-code-here...`
+`write-your-code-here...`...
 -->
 
 ## Project Status
