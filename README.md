@@ -7,7 +7,7 @@
 * [Project Status](#project-status) <!-- * [Room for Improvement](#room-for-improvement) -->
 * [ToDo](#todo)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact) <!-- * [License](#license) -->
+* [Contact](#contact) <!-- * [License](#license)... -->
 
 
 ## General Information
